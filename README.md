@@ -1,10 +1,12 @@
-**<h1 align="center">Hi 👋, I'm [Akın](https://akinbezatoglu.github.io)</h1>**
+**<h1 align="center">Hi, 👋 I'm Akın</h1>**
 
-<p align="justify">I'm a 24-year-old DevOps and Cloud practitioner based in Istanbul. I am passionate about infrastructure, virtualization, and automation. I am currently learning and working on Golang, Terraform, Huawei Cloud, and AWS. I am never afraid to explore new technologies, encounter new challenges, and find solutions.</p>
+<p align="justify">I'm a passionate <b>Cloud Engineer</b> with a keen interest in <b>AWS</b>, focused on crafting innovative solutions. Always learning and growing, I'm levelling up my <b>Kubernetes</b> container orchestration skills through online courses, with a strong interest in <b>distributed systems</b>. Open to connecting and sharing knowledge/<b>feedback</b>! Find me on LinkedIn.</p>
+
+<p>I write some blogs on dev.to. I'm open to feedback always.</p>
+<a href="https://dev.to/akin" target="_blank"> <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="dev.to" width="50" height="50"/></a>
 
 ## 🔗 Let's Connect
-
-<a href="https://www.linkedin.com/in/akinbe/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/akinbezatoglu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🔨 Stack
 
@@ -16,7 +18,6 @@
   <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.huaweicloud.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/huawei/huawei-icon.svg" alt="hwc" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a>
 </p>
 
