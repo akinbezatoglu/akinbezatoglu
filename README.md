@@ -1,4 +1,4 @@
-![banner](https://github.com/akinbezatoglu/akinbezatoglu/assets/61403011/714e8542-a422-493f-b055-311c2491ba48)
+<!--![banner](https://github.com/akinbezatoglu/akinbezatoglu/assets/61403011/714e8542-a422-493f-b055-311c2491ba48)-->
 
 **<h1 align="center">Hi, 👋 I'm Akın</h1>**
 
