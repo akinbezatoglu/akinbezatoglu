@@ -2,7 +2,7 @@
 
 **<h1 align="center">Hi, 👋 I'm Akın</h1>**
 
-<p align="justify">I’m an aspiring 25-year-old Cloud practitioner based in Istanbul. As a proactive learner, I am actively seeking opportunities to grow my expertise in cloud services and DevOps practices. Currently, I'm diving into and striving to master topics such as <b>containerization</b>, <b>orchestration</b>, and <b>infrastructure as code</b>. My goal is to become a valuable asset to any team, contributing to the deployment and management of robust, scalable cloud solutions.</p>
+<p align="justify">I’m an aspiring 25-year-old Cloud practitioner based in Istanbul. As a proactive learner, I am actively seeking opportunities to grow my expertise in cloud services and DevOps practices. Currently, I'm diving into and striving to master topics such as <b>containerization</b>, <b>orchestration</b>, and <b>infrastructure-as-code</b>. My goal is to become a valuable asset to any team, contributing to the deployment and management of robust, scalable cloud solutions.</p>
 
 ## 🔗 Let's Connect
 <a href="https://www.linkedin.com/in/akinbezatoglu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
